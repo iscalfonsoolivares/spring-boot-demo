@@ -1,0 +1,1 @@
+INSERT INTO `clients` (`id`, `create_at`, `email`, `last_name`, `name`) VALUES (NULL, NULL, 'some@email.com', 'doe', 'john');
